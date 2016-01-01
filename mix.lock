@@ -1,0 +1,12 @@
+%{"bbmustache": {:hex, :bbmustache, "1.0.3"},
+  "conform": {:hex, :conform, "1.0.0-rc8"},
+  "conform_exrm": {:hex, :conform_exrm, "0.2.0"},
+  "erlware_commons": {:hex, :erlware_commons, "0.15.0"},
+  "exrm": {:hex, :exrm, "1.0.0-rc7"},
+  "exrm_reload": {:git, "https://github.com/liveforeverx/exrm_reload.git", "24dcbf09974f4aac294a240824b26f237603719c", []},
+  "exrm_rpm": {:git, "https://github.com/liveforeverx/exrm-rpm.git", "79e7be95357b94d9aab71120cdb8cd5a366e8dfa", []},
+  "fs": {:git, "https://github.com/liveforeverx/fs.git", "c7b28c2285b3df8cb89e91fce635c67bb402bff9", [branch: "master"]},
+  "getopt": {:hex, :getopt, "0.8.2"},
+  "neotoma": {:hex, :neotoma, "1.7.3"},
+  "providers": {:hex, :providers, "1.4.1"},
+  "relx": {:hex, :relx, "3.5.0"}}
